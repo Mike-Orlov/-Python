@@ -30,3 +30,20 @@ while True:
     print(sum(result))
 
 print(sum(result))
+
+# Другой вариант выхода из while loop:
+#
+#ex = False
+#while ex == False:
+#    list_of_numbers = fun_input()
+#    for i in range(len(list_of_numbers)):
+#        if list_of_numbers[i] == '^':
+#            print('exit')
+#            ex = True
+#            break 
+#        else:
+#            digit_number = int(list_of_numbers[i])
+#            result.append(digit_number)
+#    if '^' in list_of_numbers:
+#        break
+#    print(sum(result))
