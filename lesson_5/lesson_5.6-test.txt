@@ -1,0 +1,5 @@
+Literature: 17(pr) 28(lec) -
+Physics: 30(lec) - 24(lab)
+Chemistry: - 25(pr) 13(lab)
+Statistics: - 20(pr) -
+Maths: 10(lec) 15(pr) 40(lab)
